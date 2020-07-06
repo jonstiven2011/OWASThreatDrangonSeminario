@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Proyecto Laboratorio 7",
+    "owner": "Johnnathan Steven Navarro",
+    "description": "Proyecto laboratorio #7 de Seminario de Seguridad Módulo 2 Seguridad en Aplicaciones Web"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Laboratorio_7",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Jose Ubaldo Carvajal"
+  }
+}
